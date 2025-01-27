@@ -16,7 +16,7 @@ Antes de prosseguir, certifique-se de ter o seguinte instalado em seu sistema:
    Clone o repositório do projeto para sua máquina local usando o Git, executando o seguinte comando em seu terminal ou prompt de comando:
 
    ```
-   git clone https://github.com/AbubakrChan/crewai-business-product-launch.git
+   git clone https://github.com/matheus896/analise-de-mercado-crewai.git
    ```
 
 2. **Navegue até o Diretório do Projeto:**
